@@ -1,0 +1,33 @@
+.bank{
+    display: flex;
+    align-items: center;
+
+}
+.cash{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: blue;
+    background: red;
+    font-size: 30px;
+    width: 100px;
+    height: 100px;
+}
+.user{
+    width: 350px;
+    height: 350px;
+}
+.btn button{
+   padding: 10px 20px;
+    outline: none;
+    color: red;
+    background: blue;
+    border: none;
+    margin: 10px;
+}
+input{
+    outline: none;
+    color: gray;
+    width: 100px;
+    height: 20px;
+}
